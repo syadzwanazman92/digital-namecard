@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Syadzwan;Azman;;;
+FN: Muhamad Syadzwan bin Azman 
+ORG:UOB Asset Management;
+TITLE:Internship\nDigital & Data Analytics
+EMAIL;type=INTERNET;type=WORK;type=pref:syadzwanazman@gmail.com
+TEL;type=WORK;type=VOICE:0145181135
+item1.ADR;type=WORK;type=pref:;;UOB Asset Management Malaysia\nLevel 22\,Vista Tower\,The Intermark\,Jalan Tun Razak;;;50400;Kuala Lumpur
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:http://www.uobam.com.my/index.page
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
